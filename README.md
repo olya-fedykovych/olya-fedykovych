@@ -1,16 +1,15 @@
-### Hi there 👋
+![Gihub Banner](./github-banner.gif)
 
-<!--
-**olya-fedykovych/olya-fedykovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! I’m Olya, a Front End Developer driven by passion for creating distinctive and functional user interfaces. My primary focus is implementation of user-centric web applications which align with company and user requirements. To achieve this goal, I leverage technologies including JavaScript, React, Redux, CSS/Sass and Node.js/Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+ [![My Skills](https://skillicons.dev/icons?i=javascript,react,sass,nodejs,express,git,css,webpack,figma&theme=dark)](https://skillicons.dev)
+ 
+## Projects
+
+<div display="flex"><img src="/DECARTO-demo.gif" width="330" height="200"/>
+<img src="/MFB-demo.gif" width="330" height="200"/>
+<img src="/sauna-demo.gif" width="330" height="200"/>
+</div>
